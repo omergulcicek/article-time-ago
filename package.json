@@ -1,0 +1,25 @@
+{
+  "name": "article-time-ago",
+  "version": "0.4.0",
+  "description": "açıklama",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omergulcicek/article-time-ago.git"
+  },
+  "keywords": [
+    "article",
+    "blog",
+    "time",
+    "ago"
+  ],
+  "author": "Ömer Gülçiçek <iletisim@omergulcicek.com> (https://omergulcicek.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omergulcicek/article-time-ago/issues"
+  },
+  "homepage": "https://github.com/omergulcicek/article-time-ago#readme"
+}
