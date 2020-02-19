@@ -1,7 +1,7 @@
 {
   "name": "article-time-ago",
-  "version": "0.4.0",
-  "description": "açıklama",
+  "version": "0.5.0",
+  "description": "It gives verbal date information for between current date and specified date",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,8 +13,7 @@
   "keywords": [
     "article",
     "blog",
-    "time",
-    "ago"
+    "time ago"
   ],
   "author": "Ömer Gülçiçek <iletisim@omergulcicek.com> (https://omergulcicek.com)",
   "license": "ISC",
