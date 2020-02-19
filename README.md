@@ -1,5 +1,7 @@
 # article-time-ago
 
+[Click for English README file](https://github.com/omergulcicek/article-time-ago/blob/master/README-en.md)
+
 Belirtilen tarih ile anlık tarih arasındaki süreyi sözel olarak yazar.
 
 Bloglarda ki makalelerin tarihini belirtmek için uygundur.
@@ -10,9 +12,8 @@ Bloglarda ki makalelerin tarihini belirtmek için uygundur.
 - dün
 - evvelsi gün
 - 3/4/5/6 gün önce
-- bu hafta
+- geçen hafta
 - 2/3 hafta önce
-- bu ay
 - geçen ay
 - 2/3/4... ay önce
 - geçen yıl
